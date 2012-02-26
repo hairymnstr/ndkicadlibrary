@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Fri 17 Feb 2012 14:06:29 GMT
+EESchema-DOCLIB  Version 2.0  Date: Sun 26 Feb 2012 14:54:12 GMT
 #
 $CMP BUSAT
 D Connecteur BUS ISA 16 bits
@@ -78,6 +78,11 @@ $ENDCMP
 $CMP CONN_15X4
 D Connecteur Europe, 60 contacts, rangees A,B,C,D
 K CONN CONN
+$ENDCMP
+#
+$CMP CONN_16
+D Symbole general de connexion
+K CONN
 $ENDCMP
 #
 $CMP CONN_17
