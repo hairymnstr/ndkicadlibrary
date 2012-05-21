@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 20 Feb 2012 22:28:19 GMT
+EESchema-DOCLIB  Version 2.0  Date: Mon 21 May 2012 16:01:19 BST
 #
 $CMP 7SEGM
 D Afficheur Leds 7 segments
@@ -168,6 +168,11 @@ K switch
 $ENDCMP
 #
 $CMP SW_PUSH
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP SW_PUSH4
 D Push Button
 K Switch
 $ENDCMP
