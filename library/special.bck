@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 28 Mar 2011 22:48:59 BST
+EESchema-DOCLIB  Version 2.0  Date: Sat 21 Apr 2012 21:35:35 BST
 #
 $CMP AD725
 D RGB to PAL/NTSC encoder
@@ -123,7 +123,7 @@ K POT
 F maxim/MAX5436-MAX5439.pdf
 $ENDCMP
 #
-$CMP Max691
+$CMP MAX691
 F maxim/max690-max695.pdf
 $ENDCMP
 #
