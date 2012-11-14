@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Thu 11 Oct 2012 16:59:04 BST
+EESchema-LIBRARY Version 2.3  Date: Tue 16 Oct 2012 15:51:28 BST
 #encoding utf-8
 #
 # +1.2V
@@ -334,7 +334,7 @@ DEF +5VUSB PWR? 0 40 N N 1 F P
 F0 "PWR?" 0 100 60 H I C CNN
 F1 "+5VUSB" 0 100 40 H V C CNN
 DRAW
-X +5VSB 1 0 0 0 U 20 20 0 0 W N
+X +5VUSB 1 0 0 0 U 20 20 0 0 W N
 C 0 50 20 0 1 0 N
 P 4 0 1 0  0 0  0 30  0 30  0 30 N
 ENDDRAW

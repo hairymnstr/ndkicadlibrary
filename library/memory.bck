@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 24 Jan 2011 23:27:25 GMT
+EESchema-DOCLIB  Version 2.0  Date: Mon 05 Nov 2012 15:07:57 GMT
 #
 $CMP 2130
 D biPort RAM (1Ko)
@@ -151,7 +151,7 @@ D Barrette SIMM 1 Mo ( 1M x 9 bits)
 K DRAM 1MO
 $ENDCMP
 #
-$CMP SRAM_512Ko
+$CMP SRAM_512KO
 D SRAM 512Kbytes 32 pins
 K RAM
 $ENDCMP
