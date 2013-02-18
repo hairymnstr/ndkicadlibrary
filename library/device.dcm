@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 31 Oct 2012 10:53:48 GMT
+EESchema-DOCLIB  Version 2.0  Date: Wed 13 Feb 2013 16:27:32 GMT
 #
 $CMP 7SEGM
 D Afficheur Leds 7 segments
@@ -16,6 +16,10 @@ K Pont Diode
 $ENDCMP
 #
 $CMP BSH121
+F transistors/mos/*.*
+$ENDCMP
+#
+$CMP BSS84AKW
 F transistors/mos/*.*
 $ENDCMP
 #
