@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 24 Jun 2013 22:34:44 BST
+EESchema-DOCLIB  Version 2.0  Date: Sat 20 Jul 2013 16:41:40 BST
 #
 $CMP 7805
 D Linear Regulator +5V
@@ -199,6 +199,10 @@ $ENDCMP
 $CMP MC34063
 D 1.5A step up/down/inverting switching regulator
 F regulator/mc34063.pdf
+$ENDCMP
+#
+$CMP MCP1826S-0802-E/AB
+D 1A postive fixed low-drop out voltage regulator
 $ENDCMP
 #
 $CMP MIC2177
