@@ -137,6 +137,11 @@ D Potentionmetre
 K R
 $ENDCMP
 #
+$CMP POT_MECH
+D Potentionmetre
+K R
+$ENDCMP
+#
 $CMP R
 D Resistance
 K R DEV
