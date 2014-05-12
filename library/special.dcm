@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 28 Nov 2013 21:32:21 GMT
+EESchema-DOCLIB  Version 2.0
 #
 $CMP AD725
 D RGB to PAL/NTSC encoder
@@ -121,10 +121,6 @@ $CMP MAX5436
 D Digital Potentiometer (SPI ctrl)
 K POT
 F maxim/MAX5436-MAX5439.pdf
-$ENDCMP
-#
-$CMP MAX691
-F maxim/max690-max695.pdf
 $ENDCMP
 #
 $CMP MAX777
