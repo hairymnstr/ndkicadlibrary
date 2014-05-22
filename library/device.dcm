@@ -201,6 +201,11 @@ D Push Button
 K Switch
 $ENDCMP
 #
+$CMP SW_PUSH4_GNDTAB
+D Push Button
+K Switch
+$ENDCMP
+#
 $CMP THYRISTOR
 D Diode simple
 K DEV DIODE

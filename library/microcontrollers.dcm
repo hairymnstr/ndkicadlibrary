@@ -100,4 +100,8 @@ D FLASH-Based 8-Bit CMOS Microcontroller (TQFP package)
 K PIC
 $ENDCMP
 #
+$CMP STM32F405RG
+D ARM Cortex-M4
+$ENDCMP
+#
 #End Doc Library

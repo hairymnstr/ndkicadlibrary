@@ -137,6 +137,11 @@ D Potentionmetre
 K R
 $ENDCMP
 #
+$CMP POT_MECH
+D Potentionmetre
+K R
+$ENDCMP
+#
 $CMP R
 D Resistance
 K R DEV
@@ -192,6 +197,11 @@ K Switch
 $ENDCMP
 #
 $CMP SW_PUSH4
+D Push Button
+K Switch
+$ENDCMP
+#
+$CMP SW_PUSH4_GNDTAB
 D Push Button
 K Switch
 $ENDCMP
