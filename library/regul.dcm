@@ -116,12 +116,12 @@ K REGUL POWER
 F linear-tec/lt1129.pdf
 $ENDCMP
 #
-$CMP LT1175_QP
+$CMP LT1175CN8
 D REGULATOR (Negative voltage)
 F linear-tec/lt1175.pdf
 $ENDCMP
 #
-$CMP LT1175CN8
+$CMP LT1175_QP
 D REGULATOR (Negative voltage)
 F linear-tec/lt1175.pdf
 $ENDCMP
@@ -152,12 +152,6 @@ D DC/DC converter for CCD bias
 F regulator/lt3472.pdf
 $ENDCMP
 #
-$CMP LT_1129_QP
-D LowDrop Linear Regulator (QPACK 5 pins)
-K REGUL POWER
-F linear-tec/lt1129.pdf
-$ENDCMP
-#
 $CMP LTC1307
 D Switching Regulator (Single cell micropower)
 K POWER
@@ -179,6 +173,12 @@ $CMP LTC1878EMS8
 D Synchronous Step-Down Regulator
 K REGUL POWER
 F linear-tec/ltc1878.pdf
+$ENDCMP
+#
+$CMP LT_1129_QP
+D LowDrop Linear Regulator (QPACK 5 pins)
+K REGUL POWER
+F linear-tec/lt1129.pdf
 $ENDCMP
 #
 $CMP MAX1647
