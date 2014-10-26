@@ -1,0 +1,24 @@
+[submodule "new_modules/Nathan_SMT_Conn.pretty"]
+	path = new_modules/Nathan_SMT_Conn.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Conn.pretty.git
+[submodule "new_modules/Nathan_SMT_Other.pretty"]
+	path = new_modules/Nathan_SMT_Other.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Other.pretty.git
+[submodule "new_modules/Nathan_SMT_Passive.pretty"]
+	path = new_modules/Nathan_SMT_Passive.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Passive.pretty.git
+[submodule "new_modules/Nathan_SMT_Semis.pretty"]
+	path = new_modules/Nathan_SMT_Semis.pretty
+	url = git@github.com:hairymnstr/Nathan_SMT_Semis.pretty.git
+[submodule "new_modules/Nathan_THT_Conn.pretty"]
+	path = new_modules/Nathan_THT_Conn.pretty
+	url = git@github.com:hairymnstr/Nathan_THT_Conn.pretty.git
+[submodule "new_modules/Nathan_THT_Other.pretty"]
+	path = new_modules/Nathan_THT_Other.pretty
+	url = git@github.com:hairymnstr/Nathan_THT_Other.pretty.git
+[submodule "new_modules/Nathan_THT_Passive.pretty"]
+	path = new_modules/Nathan_THT_Passive.pretty
+	url = git@github.com:hairymnstr/Nathan_THT_Passive.pretty.git
+[submodule "new_modules/Nathan_Mechanical.pretty"]
+	path = new_modules/Nathan_Mechanical.pretty
+	url = git@github.com:hairymnstr/Nathan_Mechanical.pretty.git
