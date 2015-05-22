@@ -1,15 +1,10 @@
-update=30/03/2013 13:45:59
+update=08/05/2015 13:45:59
 version=1
-last_client=pcbnew
+last_client=kicad
 [general]
 version=1
 RootSch=
 BoardNm=
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [eeschema]
 version=1
 LibDir=
@@ -72,14 +67,6 @@ SolderMaskMinWidth=0.000000000000
 DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
-[pcbnew/libraries]
-LibDir=
-LibName1=supports
-LibName2=semis
-LibName3=connect
-LibName4=discret
-LibName5=pin_array
-LibName6=divers
-LibName7=libcms
-LibName8=display
-LibName9=valves
+[cvpcb]
+version=1
+NetIExt=net
