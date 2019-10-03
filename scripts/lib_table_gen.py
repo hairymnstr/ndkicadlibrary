@@ -16,12 +16,20 @@ DESCRIPTION
     library management dialog.
     
     To use it, simply add your custom libraries (e.g. as a git submodule or svn external) such that
-    schematic libraries are in <PROJECT FOLDER>/library/library and PCB footprints are in
-    <PROJECT FOLDER>/library/modules then run
+    schematic libraries are in <PROJECT FOLDER>/library/library, PCB footprints are in
+    <PROJECT FOLDER>/library/modules and this script is in <PROJECT FOLDER>/library/scripts then run
     
-        ./lib_table_gen
+        library/scripts/lib_table_gen.py
     
-    From a console in the <PROJECT FOLDER>.
+    From a console in the <PROJECT FOLDER>.  This will generate two new files in your project folder
+
+        fp-lib-table
+        sym-lib-table
+    
+    add both of these files to your version control software.  Once you've started work on a project
+    if you want to add other project specific libraries just use the dialogs insided KiCad, they
+    will modify these tables in place and the changes will be recorded in your version control
+    software.
 
     -h, --help
         Show this help and exit
