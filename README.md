@@ -7,4 +7,5 @@ libraries.  Unless you are trying to use one of my projects I advise you check o
 risk, many of them are not mine.
 
 There are also a number of scripts for automating output of gerbers and schematics in the scripts
-folder.  These are generally BSD-2-clause licensed for use in any project personal or commercial.
+folder.  These are generally BSD-2-clause licensed for use in any project personal or commercial,
+some are Apache licensed based on older work by someone else, generally still free to use.
